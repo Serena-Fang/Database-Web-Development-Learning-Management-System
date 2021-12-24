@@ -1,0 +1,53 @@
+﻿cid,qnum,rnum,sid,time,rtext
+4,1,1,JulFHBBgP9,2/28/20 7:41,Please try using the GCP instance to avoid having to implement your local copy.
+4,2,1,fC8CoZyN8g,4/1/2020 2:35,No it doesn't matter so long as it can functionally browse the database.
+4,2,2,tmt3aPs20s,4/1/2020 11:05,Do I need to sanitize the user input?
+4,2,3,JulFHBBgP9,4/1/2020 14:15,You can assume that we will be reasonable users and not try to hack your system.
+4,3,1,WJrWAidLZ5,4/2/2020 19:47,I believe we should be using JDK 8.0
+4,4,1,JulFHBBgP9,4/10/2020 14:49,Yes they have been uploaded onto Canvas.
+4,5,1,JulFHBBgP9,5/2/2020 5:37,No there won't be any solutions for the sample final problems.
+5,1,1,RxNqRHaaoI,9/15/20 8:01,I like Sublime Text Editor and using the command line to compile
+5,1,2,RwKSObZt8b,9/15/20 8:23,Have you tried Eclipse? It's the best!
+5,1,3,AnRRwDoMFm,9/15/20 11:04,What about Netbeans? It was originally part of the JDK.
+5,1,4,ECk9NPOnC1,9/15/20 11:05,IntelliJ is also another useful IDE
+5,1,5,JulFHBBgP9,9/15/20 11:55,Microsoft Visual Studio has a student developer pack as well.
+5,2,1,ECk9NPOnC1,10/13/20 22:55,As long as its within reasonable time frames you will not be deducted points.
+5,3,1,ECk9NPOnC1,10/28/20 5:19,You may want to verify that you are appropriately updating your variables. Try using System.out.println.
+5,4,1,JulFHBBgP9,11/12/2020 14:10,You may want to explore different shuffle variants that are found on Wikipedia.
+5,5,1,JulFHBBgP9,11/28/20 9:18,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.
+6,1,1,v9ksRoAENe,2/4/2021 7:05,I think the bowtie means natural join
+6,2,1,JulFHBBgP9,4/9/2021 20:26,Everything up until today's lecture can be included as material on the exam
+6,3,1,A1Kcf8Z1u3,3/21/21 10:59,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.
+6,4,1,OhfDW5FQet,3/29/21 4:47,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY
+6,4,2,A1Kcf8Z1u3,3/29/21 9:35,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause
+6,5,1,JulFHBBgP9,4/25/21 13:39,Please submit a regrade request via email to me with the email header [CS377]
+6,6,1,Rjuqf7P3nX,4/10/2021 17:01,Have you tried reloading the page or clearing your cache?
+6,7,1,QVsfnLS8nP,4/17/21 16:11,Try cloud.google.com
+6,8,1,JulFHBBgP9,5/1/2021 5:48,Everything covered in the class can appear on the final exam
+6,9,1,JulFHBBgP9,4/26/21 7:35,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute
+6,9,2,qjAClhRo8T,4/26/21 8:11,Why is database normalization important?
+6,9,3,Rjuqf7P3nX,4/26/21 12:41,Database normalization is important because it's a rite of passage into the database community
+7,2,1,qBhsb9AT1D,10/1/2021 17:41,I believe just choosing a random card from the deck to deal out cards is enough.
+7,2,2,A1Kcf8Z1u3,10/1/2021 18:51,As long as there is some point of randomness that is involved it will be sufficient.
+7,2,3,cp5asEx6KR,10/3/2021 8:47,Yes your application should gracefully handle this situation.
+7,2,5,YXCMIivcy6,10/3/2021 4:32,Should we consider the situation when the deck is running out of cards?
+7,3,1,wUSNkrt2i7,10/1/2021 20:23,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.
+7,3,2,RxNqRHaaoI,10/1/2021 23:22,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most
+7,4,1,YXCMIivcy6,10/14/21 17:11,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.
+7,4,2,RwKSObZt8b,10/15/21 5:19,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.
+7,5,1,qBhsb9AT1D,10/16/21 10:04,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine
+7,5,2,QVsfnLS8nP,10/16/21 12:01,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.
+7,6,1,wUSNkrt2i7,10/31/21 20:01,Exceptions stop execution
+8,1,1,ize3lkeNiR,9/5/2021 16:35,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.
+8,1,2,WJrWAidLZ5,9/5/2021 20:45,Yes Elaine is correct in this response.
+8,4,1,ize3lkeNiR,9/5/2021 13:35,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.
+8,4,2,A1Kcf8Z1u3,9/5/2021 15:45,You can draw an analogy between the relational schema and classes in Java. Then you can think of relation state as the objects that are defined at that particular time.
+8,5,1,ize3lkeNiR,10/15/21 13:32,The numbers seem to be incorrect and it seems the points were posted?
+8,5,2,A1Kcf8Z1u3,10/15/21 20:02,Sorry about the mistake the correct question items were posted now.
+8,5,3,A3mMrNEFsy,10/15/21 23:32,Where can we find the spreadsheet?
+8,5,4,tmt3aPs20s,10/15/21 23:59,The spreadsheet is under the Assignment2 folder.
+8,5,5,A3mMrNEFsy,10/16/21 0:11,Thanks Nikhil!
+8,6,1,A1Kcf8Z1u3,10/9/2021 10:24,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL
+8,6,2,Xo3aGKAsfE,10/25/21 13:45,Does this apply for Q9 as well?
+8,6,3,,10/25/21 18:21,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.
+8,7,1,PiQvBSPut9,10/16/21 6:23,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables

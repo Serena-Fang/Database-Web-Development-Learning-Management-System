@@ -1,0 +1,36 @@
+cid,pnum,ptitle,ptext,pdate,psid
+4,1,Music Industry database Trouble,I am trying to create a local copy of the database but it takes an absurdly long time. What should I do?,28/2/2020 5:50,WJrWAidLZ5
+4,2,Java GUI,Does it matter if my GUI is ugly?,1/4/2020 0:30,tmt3aPs20s
+4,3,JDK version,Which JDK version should we be using?,2/4/2020 14:24,PiQvBSPut9
+4,4,Sample midterms,Are there sample midterm exams?,10/4/2020 13:02,tmt3aPs20s
+4,5,Sample final exams,Are there solutions for the sample final exams?,1/5/2020 2:08,PiQvBSPut9
+5,1,Java IDE,Does anybody have any suggestions about a good IDE to use?,15/9/2020 6:53,8uv1aK9btU
+5,2,Runtime,My runtimes are larger than what is in the sample runtimes.txt file. Will I lose points?,13/10/2020 22:39,WVztzxaqG1
+5,3,Trouble with delete,My delete in the double-ended link list isn't working. It deletes the entire list!,28/10/2020 5:19,lKOmgoDP5M
+5,4,Shuffling for Quicksort,What is the best way to shuffle an array at the start of quicksort?,12/11/2020 8:59,pAA8hhbaAf
+5,5,BST item deletion,How do you delete if it's not the min or max value?,28/11/2020 3:35,bCSKEQsp82
+6,1,RA operation,What does the bowtie symbol mean?,4/2/2021 3:45,qjAClhRo8T
+6,2,Midterm content,What will be covered on the midterm?,9/4/2021 19:13,I8k5HwpLlU
+6,3,SQL server,How do we install PostGresSQL on our local machine?,21/3/2021 4:28,cp5asEx6KR
+6,4,GROUP BY query,Does it matter where GROUP BY is located?,29/3/2021 4:47,AnRRwDoMFm
+6,5,Regrade request,How do we submit a regrade request for the midterm?,25/4/2021 6:10,l8Ck5AEii7
+6,6,Week 10 Prep,Canvas is not allowing me to submit the weekly prep quiz. What should I do?,10/4/2021 12:31,nlNo3Ifie2
+6,7,Week 11 Prep,Does anybody have a link to the Google Cloud Platform?,17/4/2021 12:31,fe20lUruvB
+6,8,Final content,What will be covered on the final?,1/5/2021 5:40,EIBGkZJ8LU
+6,9,Database normalization,What is the difference between 2NF and 3NF?,26/4/2021 1:32,I8k5HwpLlU
+7,1,A1 Tips,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.,14/9/2021 11:45,8uv1aK9btU
+7,2,Shuffle Deck,Do we have to shuffle the deck at any point?,1/10/2021 14:35,wUSNkrt2i7
+7,3,Ace value,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?,1/10/2021 19:01,AyZm6kgtLQ
+7,4,Possible legal moves,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?,14/10/2021 11:30,qBhsb9AT1D
+7,5,Filename changed after resubmission,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code. ,16/10/2021 8:37,loWO7ep40W
+7,6,Exceptions,When we throw an exception does it need to stop the program immediately?,31/10/2021 16:35,AyZm6kgtLQ
+7,7,,,,
+8,1,Question 1 Clarification,Are we to find countries who have won no medals and report all the last names associated with them or find the last names of all athletes who have no medals?,5/9/2021 16:30,bSZa17FK2l
+8,2,Assignment 1 Graded,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,1/10/2021 7:30,A1Kcf8Z1u3
+8,3,Assignment 1 Graded,How do we setup the Yelp Server?,1/10/2021 7:30,ize3lkeNiR
+8,4,Conceptual question - relational state vs relational schema,Is there a difference between the two?,5/9/2021 10:15,Xo3aGKAsfE
+8,5,Assignment 1 Graded,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.,15/10/2021 7:25,A1Kcf8Z1u3
+8,6,HW3 Q2,Can we assume each city has a distance name?,9/10/2021 8:30,fk7USWbA60
+8,7,HW3,Are we allowed to create a tempory table to hold intermediate results?,15/10/2021 7:48,bSZa17FK2l
+8,8,Assignment 4 Graded,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,1/10/2021 7:30,A1Kcf8Z1u3
+8,9,,,,
