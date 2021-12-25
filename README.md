@@ -55,3 +55,14 @@ php files:
 * tag.php, tag2.php: tag page
 * teach.php: instructor specific teach page 
 * trans.php: transcript page
+
+csv files:
+* assignment.csv: infomation of each assignment
+* class.csv: class, number, the semester and year
+* course.csv: the course number and name
+* grade.csv: class cid, student id, assignment id, and the grade instructor.csv: class and its instructor
+* post.csv: information of each posted question
+* reply.csv: information of each reply to specific question student.csv: information of each student
+* TA.csv: class and its TA ID
+* tag.csv: class, question number, tag
+* takes.csv: classes each student takes
