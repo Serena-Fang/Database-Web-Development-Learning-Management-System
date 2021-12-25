@@ -38,7 +38,7 @@ My relational schema is in 2NF as there are no non-key attributes functionally d
 ## Files Explaination:
 
 php files:
-login.html: login page
+* login.html: login page
 login2.html: login page for instructor/TA
 authenticate.php: authenticate the sid and login id of the student a2.php: authenticate the sid and login id of the instructor/TA homepage.php: homepage for students
 homepage2.php: homepage for instructor/TA
